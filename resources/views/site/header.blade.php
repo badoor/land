@@ -19,6 +19,7 @@
 			  <li><a href="#contact" class="scroll-link">Contact</a></li>
 			</ul>
       </div>
+      
 	 </nav>
 
 	  @endif
